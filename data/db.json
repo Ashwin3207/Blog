@@ -1,0 +1,20 @@
+{
+    "blogs":
+    
+    [
+
+        {
+                "title" : "My first Blog",
+                "body" : "This is my first blog on the site",
+                "author" : "Ash",
+                "id": 1
+        },
+        {
+            "title" : "Welcomes",
+            "body" : "This is my first blog on the site",
+            "author" : "Srish",
+            "id": 2
+        }
+
+    ]
+}
